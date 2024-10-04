@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestLogin</string>
+    <string name="stop">Stop</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">LOGIN</string>
+    <string name="login_to">Login to</string>
+    <string name="starting_sms_server">Starting SMS Server..</string>
+    <string name="sms_server">SMS Server</string>
+</resources>

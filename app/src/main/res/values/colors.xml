@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="activitybackgroundcolor">#FFF</color>
+    <color name="buttonbackgroundcolor">#1783D8</color>
+    <color name="textcolor">#1783D8</color>
+    <color name="hr">#53AFF4</color>
+</resources>
